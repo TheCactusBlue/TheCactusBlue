@@ -1,8 +1,8 @@
-<h1 align="center">
-CactusBlue
-</h1>
+# CactusBlue
 
-I build Mikoto Platforms.
+![github stats](https://github-readme-stats.vercel.app/api?username=thecactusblue&theme=radical)
+
+I'm currently building Mikoto Platforms, the knowledge-focused messaging platform. I usually work with Rust, TypeScript, React, and Kubernetes, but I try out new technologies for fun.
 
 <!--
 **TheCactusBlue/TheCactusBlue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
