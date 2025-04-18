@@ -2,7 +2,7 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=thecactusblue&theme=radical)
 
-I'm currently building Mikoto Platforms, the knowledge-focused messaging platform. I usually work with Rust, TypeScript, React, and Kubernetes, but I try out new technologies for fun.
+I'm currently building [Mikoto Platforms](https://github.com/mikotoIO/mikoto), the knowledge-focused messaging platform. I usually work with Rust, TypeScript, React, and Kubernetes, but I try out new technologies for fun.
 
 My personal obsessions include:
 
@@ -11,6 +11,19 @@ My personal obsessions include:
 - biohacking
 - pl & compiler design
 - financial systems
+
+## Some of the tech I've used:
+
+### Backend:
+[![Backend](https://skillicons.dev/icons?i=rust,elixir,go,bun,clojure,cs)](https://skillicons.dev)
+### Frontend:
+[![Frontend](https://skillicons.dev/icons?i=ts,react,vue,next,rxjs,graphql)](https://skillicons.dev)
+### Machine Learning:
+[![Databases](https://skillicons.dev/icons?i=python,pytorch,opencv,tensorflow)](https://skillicons.dev)
+### Databases / Other Services:
+[![Databases](https://skillicons.dev/icons?i=postgresql,redis,mongodb,rabbitmq,cassandra,elasticsearch)](https://skillicons.dev)
+### Others:
+[![Others](https://skillicons.dev/icons?i=unity,haskell,wasm,k8s,gcp,solidity)](https://skillicons.dev)
 
 <!--
 **TheCactusBlue/TheCactusBlue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
