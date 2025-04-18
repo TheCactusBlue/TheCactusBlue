@@ -4,6 +4,14 @@
 
 I'm currently building Mikoto Platforms, the knowledge-focused messaging platform. I usually work with Rust, TypeScript, React, and Kubernetes, but I try out new technologies for fun.
 
+My personal obsessions include:
+
+- social network designs
+- intersection of anime and technology
+- biohacking
+- pl & compiler design
+- financial systems
+
 <!--
 **TheCactusBlue/TheCactusBlue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
