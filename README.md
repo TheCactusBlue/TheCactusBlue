@@ -1,20 +1,8 @@
 <h1 align="center">
-CactusBlue 🌵
+CactusBlue
 </h1>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=thecactusblue)
-
-☕ My tech stacks:
-- Node.JS/TypeScript/React
-- Go
-- Python
-- Rust
-- C#
-- Java/Kotlin
-- PostgreSQL
-- Redis
-- Docker
-- Kubernetes
+I build Mikoto Platforms.
 
 <!--
 **TheCactusBlue/TheCactusBlue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
