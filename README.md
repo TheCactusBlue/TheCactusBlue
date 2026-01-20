@@ -1,10 +1,6 @@
-# CactusBlue
+I am working for [Vizcom](https://vizcom.com), building AI tools for industrial designers (and more!). As a side project, I'm currently building [Mikoto Platforms](https://github.com/mikotoIO/mikoto), the world's first antisocial network. I usually work with Rust, TypeScript, React, and Kubernetes, but I try out new technologies for fun.
 
-![github stats](https://github-readme-stats.vercel.app/api?username=thecactusblue&theme=radical)
-
-I'm currently building [Mikoto Platforms](https://github.com/mikotoIO/mikoto), the knowledge-focused messaging platform. I usually work with Rust, TypeScript, React, and Kubernetes, but I try out new technologies for fun.
-
-My personal obsessions include:
+my personal obsessions include:
 
 - social network designs
 - intersection of anime and technology
