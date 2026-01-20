@@ -1,3 +1,7 @@
+<img width="3300" height="32" alt="Genderfluid Pride Stripe" src="https://github.com/user-attachments/assets/d76049bb-21ad-4daf-8ae5-d79867a7d1ca" />
+
+# CactusBlue
+
 I am working for [Vizcom](https://vizcom.com), building AI tools for industrial designers (and more!). As a side project, I'm currently building [Mikoto Platforms](https://github.com/mikotoIO/mikoto), the world's first antisocial network. I usually work with Rust, TypeScript, React, and Kubernetes, but I try out new technologies for fun.
 
 my personal obsessions include:
